@@ -1,6 +1,6 @@
 package main
 
-import "testing"
+import "testing v1.0"
 
 func TestHello(t *testing.T) {
     expected := "Hello, Noman! Your Go project is working."
